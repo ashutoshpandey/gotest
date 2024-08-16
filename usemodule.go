@@ -5,7 +5,7 @@ import (
 	mods "gotest/modules"
 )
 
-func main() {
+func main3() {
 	a := 5
 	b := 7
 	result := mods.Jodo(a, b)
