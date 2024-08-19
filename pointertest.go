@@ -18,7 +18,7 @@ func (d *Dog) Walk() {
 	d.Name = "Dhamaka"
 }
 
-func main() {
+func main6() {
 	d1 := Dog{"Tommy"}
 	d1.Bark()
 	d1.Walk()
